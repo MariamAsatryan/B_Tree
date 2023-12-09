@@ -1,0 +1,3 @@
+﻿  B_Tree.cpp
+D:\ProjectsC++\ACA\B_Tree\B_Tree.cpp(5,1): error C2011: 'BTreeNode': 'class' type redefinition
+D:\ProjectsC++\ACA\B_Tree\B_Tree.h(3): message : see declaration of 'BTreeNode'
